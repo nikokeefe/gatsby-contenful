@@ -10,9 +10,6 @@ const Index = () => {
       <Head title="Home" />
       <h1>Hello.</h1>
       <h2>I'm Nik. I am a React developer residing in Christchurch.</h2>
-      <p>
-        Need a developer? <Link to="/contact">Contact Me</Link>
-      </p>
     </Layout>
   );
 };
